@@ -10,3 +10,7 @@ Protection against BAD USB type devices - every newly connected device needs to 
 
 ```apt install usbguard usbguard-notifier```
 
+### Firewall with GUI
+User friendly, desktop firewall with GUI [OpenSnitch](https://github.com/evilsocket/opensnitch)
+
+```apt install opensnitch```
